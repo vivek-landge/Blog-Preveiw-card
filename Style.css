@@ -17,7 +17,7 @@ body{
     flex-direction: column;
     justify-content: center;
     padding: 20px 10px 20px 10px;
-    box-shadow : 8px 8px 0 black;
+    box-shadow : 5px 5px 0 black;
 }
 #main{
     height: 25vh;
